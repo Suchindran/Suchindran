@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suchindran
 - 👀 I’m interested in coding, teaching, hiking and playing music.
-- 🌱 I’m currently learning carnatic guitar techniques and advanced mahcine learning techniques.
+- 🌱 I’m currently learning carnatic guitar techniques and advanced machine learning techniques.
 - 🔭 I have a long experience in teaching and have worked with TechMahindra, Marvell Semiconductors and Scalable Systems Reseach Labs
 - 🐡 I am also a senior instructor for [YoungWonks](https://youngwonks.com), an education and technology startup. I work with Web Development, and Python curriculum, and also teach for USACO. I also record educational videos for YouTube.
 - 💬 I like talking about music and learning languages.
